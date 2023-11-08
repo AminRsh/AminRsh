@@ -1,3 +1,5 @@
+![Header](./header.png)
+
 <h1 align="center">Hi 👋, I'm @AminRsh</h1>
 <h3 align="center">A passionate frontend developer from Iran Live in Toronto</h3>
 
