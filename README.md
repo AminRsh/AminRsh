@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js and Angular**
 
-- 👨‍💻 All of my projects are available at [www.google.com](www.google.com)
+- 👨‍💻 All of my projects are available at [[www.google.com](www.google.com)](https://amin-sharifi.netlify.app/)
 
 - 💬 Ask me about **React**
 
